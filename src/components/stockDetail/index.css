@@ -1,0 +1,13 @@
+.stockDetail > div {
+  display: flex;
+}
+.stockDetail > div > div,
+.stockDetail > div > span {
+  margin: 5px;
+}
+.stockDetail > div > span {
+  font-weight: bold;
+}
+.stockDetail {
+  margin-top: 25px;
+}

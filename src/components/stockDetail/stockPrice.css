@@ -1,0 +1,11 @@
+.stockPriceDetail > div {
+  display: flex;
+}
+.stockPriceDetail span {
+  font-weight: bold;
+  margin: 5px;
+}
+
+.stockPriceDetail div {
+  margin: 5px;
+}

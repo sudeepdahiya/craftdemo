@@ -1,0 +1,32 @@
+.autoComplete {
+  position: relative;
+  margin: 15px;
+  display: flex;
+}
+.autoComplete .autoList {
+  position: absolute;
+  background: white;
+  color: black;
+  width: 100%;
+  top: 34px;
+}
+.autoComplete button {
+  margin: 0px 20px;
+}
+.autoList div {
+  padding: 5px;
+  border: 1px solid grey;
+  cursor: pointer;
+}
+.autoList div:hover {
+  font-weight: bold;
+}
+.autoComplete .clear {
+  position: absolute;
+  left: 140px;
+  top: 6px;
+  cursor: pointer;
+}
+.autoComplete .text {
+  width: 153px;
+}

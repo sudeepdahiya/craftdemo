@@ -1,0 +1,13 @@
+.active {
+  font-weight: bold;
+}
+.slider {
+  margin: 0px 28px;
+  display: flex;
+}
+.slider button {
+  margin: 0px 10px;
+}
+.slider .stock {
+  margin: 5px;
+}
